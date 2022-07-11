@@ -27,3 +27,25 @@
 ```
 
 ![1ppe/1ppe_2_40.png](1ppe/1ppe_2_40.png)
+
+
+## Channel
+
+### Default 1 restraint
+
+```bash
+./run.sh 1
+```
+
+![channel/channel_1.png](channel/channel_1.png)
+
+
+### Dense sampling enabled, 4 restraints
+
+```bash
+./run.sh 4 20 -ds
+```
+
+![channel/channel_4_20_ds.png](channel/channel_4_20_ds.png)
+
+
