@@ -59,3 +59,41 @@
 
 ![2uuy/2uuy_1.png](2uuy/2uuy_1.png)
 
+
+
+## 5t35
+
+### Default 1 restraint
+
+```bash
+./run.sh 1
+```
+
+![protacs/5t35/5t35_1.png](protacs/5t35/5t35_1.png)
+
+
+### Dense sampling enabled, 1 restraint
+
+```bash
+./run.sh 1 20 -ds
+```
+
+![protacs/5t35/5t35_1_20_ds.png](protacs/5t35/5t35_1_20_ds.png)
+
+
+### 50 swarms per restraint, 2 restraints
+
+```bash
+./run.sh 2 50
+```
+
+![protacs/5t35/5t35_2_50.png](protacs/5t35/5t35_2_50.png)
+
+
+### Dense sampling enabled, 2 restraint
+
+```bash
+./run.sh 2 20 -ds
+```
+
+![protacs/5t35/5t35_2_20_ds.png](protacs/5t35/5t35_2_20_ds.png)
