@@ -49,3 +49,13 @@
 ![channel/channel_4_20_ds.png](channel/channel_4_20_ds.png)
 
 
+## 2uuy
+
+### Default 1 restraint
+
+```bash
+./run.sh 1
+```
+
+![2uuy/2uuy_1.png](2uuy/2uuy_1.png)
+
